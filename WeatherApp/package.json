@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather Forecasting\u001b[1;5D\u001b[1;5C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARSSHEIKH/nodejs-work.git"
+  },
+  "author": "ARSSHEIKH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARSSHEIKH/nodejs-work/issues"
+  },
+  "homepage": "https://github.com/ARSSHEIKH/nodejs-work#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "requests": "^0.3.0"
+  }
+}
