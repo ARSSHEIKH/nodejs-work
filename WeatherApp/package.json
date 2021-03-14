@@ -2,9 +2,10 @@
   "name": "weatherapp",
   "version": "1.0.0",
   "description": "Weather Forecasting\u001b[1;5D\u001b[1;5C",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/ARSSHEIKH/nodejs-work#readme",
   "dependencies": {
+    "build": "^0.1.4",
     "dotenv": "^8.2.0",
+    "react-scripts": "^4.0.3",
     "requests": "^0.3.0"
   }
 }
